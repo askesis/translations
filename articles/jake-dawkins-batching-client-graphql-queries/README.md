@@ -1,6 +1,7 @@
-# 
+#
 
-*Перевод статьи [](): []().*
+*Перевод статьи [Batching Client GraphQL Queries
+](https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b): [Jake Dawkins](https://twitter.com/JakeDawkins).*
 
 - - - -
 
